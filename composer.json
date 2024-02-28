@@ -1,0 +1,7 @@
+{
+    "require": {
+        "urhitech/urhitech-sms-php": "dev-main",
+      "ext-curl": "*",
+      "ext-json": "*"
+    }
+}
